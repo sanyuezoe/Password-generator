@@ -58,7 +58,7 @@ h4 {
 
 .pwd {
     text-align: center;
-    width:150px;
+    display: inline-block;
     height:25px;
     color:#42baa4;
     background-color:rgb(11, 108, 107);
